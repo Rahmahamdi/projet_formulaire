@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/projet_anim"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../menu_position"
+		},
+		{
+			"path": "../../display_table"
+		},
+		{
+			"path": "../../projet_display"
+		},
+		{
+			"path": "../../table_element"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projet_anim"
+	}
+}
